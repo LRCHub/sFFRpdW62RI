@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "トンデモワンダーズ",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2025-12-09T08:23:37.230558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ (feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_トンデモワンダーズ_(feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ (feat. 天馬司",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_トンデモワンダーズ_(feat._天馬司_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ (feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/03_トンデモワンダーズ_(feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/04_トンデモワンダーズ_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO",
+      "has_synced": true,
+      "path": "select/05_トンデモワンダーズ_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ (feat. 初音ミク)",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/06_トンデモワンダーズ_(feat._初音ミク)_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/07_トンデモワンダーズ_sasakure.UK_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/08_トンデモワンダーズ_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "Uratanuki",
+      "has_synced": false,
+      "path": "select/09_トンデモワンダーズ_Uratanuki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "『トンデモワンダーズ(有形ランペイジver)』feat.mami / sasakure.‌UK",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/10_『トンデモワンダーズ(有形ランペイジver)』feat.mami___sasakure.‌UK_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/11_トンデモワンダーズ_ワンダーランズ×ショウタイム.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "Yuu.",
+      "has_synced": false,
+      "path": "select/12_トンデモワンダーズ_Yuu..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ - TONDEMO-WONDERZ",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/13_トンデモワンダーズ_-_TONDEMO-WONDERZ_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ (instrumental)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/14_トンデモワンダーズ_(instrumental)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/15_トンデモワンダーズ_sasakure.UK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/pl_01_トンデモワンダーズ_sasakure.UK.txt"
+    }
+  ]
+}
